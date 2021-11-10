@@ -1,0 +1,6 @@
+okta:
+  client:
+    org_url: "https://{DOMAIN}.okta.com"
+    token: "{API_TOKEN}"
+  hook:
+    base_url: "{BASE_URL_HOOK_SERVICE"
